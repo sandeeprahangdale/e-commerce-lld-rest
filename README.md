@@ -11,7 +11,7 @@
 
 ### Project architecture
  
-![Architecture Diagram ](https://user-images.githubusercontent.com/29375643/134859653-96c436cd-c3bc-42f6-827b-ff6a83fbc371.png)
+![Architecture Diagram ](https://user-images.githubusercontent.com/29375643/134861648-793d6afd-fcdb-4154-a087-01cbd4faef15.png)
 
 
 ### Tools and Technologies
